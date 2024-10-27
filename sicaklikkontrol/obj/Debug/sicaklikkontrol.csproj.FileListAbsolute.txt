@@ -1,0 +1,7 @@
+C:\Users\melih\source\repos\sicaklikkontrol\bin\Debug\sicaklikkontrol.exe.config
+C:\Users\melih\source\repos\sicaklikkontrol\bin\Debug\sicaklikkontrol.exe
+C:\Users\melih\source\repos\sicaklikkontrol\bin\Debug\sicaklikkontrol.pdb
+C:\Users\melih\source\repos\sicaklikkontrol\obj\Debug\sicaklikkontrol.csproj.AssemblyReference.cache
+C:\Users\melih\source\repos\sicaklikkontrol\obj\Debug\sicaklikkontrol.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\sicaklikkontrol\obj\Debug\sicaklikkontrol.exe
+C:\Users\melih\source\repos\sicaklikkontrol\obj\Debug\sicaklikkontrol.pdb

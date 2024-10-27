@@ -1,0 +1,7 @@
+C:\Users\melih\source\repos\kullaniciadisifre\bin\Debug\kullaniciadisifre.exe.config
+C:\Users\melih\source\repos\kullaniciadisifre\bin\Debug\kullaniciadisifre.exe
+C:\Users\melih\source\repos\kullaniciadisifre\bin\Debug\kullaniciadisifre.pdb
+C:\Users\melih\source\repos\kullaniciadisifre\obj\Debug\kullaniciadisifre.csproj.AssemblyReference.cache
+C:\Users\melih\source\repos\kullaniciadisifre\obj\Debug\kullaniciadisifre.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\kullaniciadisifre\obj\Debug\kullaniciadisifre.exe
+C:\Users\melih\source\repos\kullaniciadisifre\obj\Debug\kullaniciadisifre.pdb

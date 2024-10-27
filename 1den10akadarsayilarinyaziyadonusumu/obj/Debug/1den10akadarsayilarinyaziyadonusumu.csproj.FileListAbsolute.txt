@@ -1,0 +1,7 @@
+C:\Users\melih\source\repos\1den10akadarsayilarinyaziyadonusumu\bin\Debug\1den10akadarsayilarinyaziyadonusumu.exe.config
+C:\Users\melih\source\repos\1den10akadarsayilarinyaziyadonusumu\bin\Debug\1den10akadarsayilarinyaziyadonusumu.exe
+C:\Users\melih\source\repos\1den10akadarsayilarinyaziyadonusumu\bin\Debug\1den10akadarsayilarinyaziyadonusumu.pdb
+C:\Users\melih\source\repos\1den10akadarsayilarinyaziyadonusumu\obj\Debug\1den10akadarsayilarinyaziyadonusumu.csproj.AssemblyReference.cache
+C:\Users\melih\source\repos\1den10akadarsayilarinyaziyadonusumu\obj\Debug\1den10akadarsayilarinyaziyadonusumu.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\1den10akadarsayilarinyaziyadonusumu\obj\Debug\1den10akadarsayilarinyaziyadonusumu.exe
+C:\Users\melih\source\repos\1den10akadarsayilarinyaziyadonusumu\obj\Debug\1den10akadarsayilarinyaziyadonusumu.pdb

@@ -1,0 +1,7 @@
+C:\Users\melih\source\repos\girilensayitekciftkontrolu\bin\Debug\girilensayitekciftkontrolu.exe.config
+C:\Users\melih\source\repos\girilensayitekciftkontrolu\bin\Debug\girilensayitekciftkontrolu.exe
+C:\Users\melih\source\repos\girilensayitekciftkontrolu\bin\Debug\girilensayitekciftkontrolu.pdb
+C:\Users\melih\source\repos\girilensayitekciftkontrolu\obj\Debug\girilensayitekciftkontrolu.csproj.AssemblyReference.cache
+C:\Users\melih\source\repos\girilensayitekciftkontrolu\obj\Debug\girilensayitekciftkontrolu.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\girilensayitekciftkontrolu\obj\Debug\girilensayitekciftkontrolu.exe
+C:\Users\melih\source\repos\girilensayitekciftkontrolu\obj\Debug\girilensayitekciftkontrolu.pdb
